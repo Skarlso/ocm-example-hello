@@ -1,0 +1,8 @@
+name: github_com_jensh007_ocm-hello
+access:
+  type: github
+  repoUrl: github.com/jensh007/ocm-example-hello
+  ref: refs/heads/main
+  commit: 166152df2856f6ec4d48fd68154987ed990894fa
+version: 0.1.0-dev
+type: git

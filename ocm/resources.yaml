@@ -1,0 +1,8 @@
+name: 'ocm-hello'
+version: '0.1.0'
+type: 'ociImage'
+relation: 'external'
+access:
+  type: 'ociRegistry'
+  imageReference: 'eu.gcr.io/gardener-project/test/ocm/examples/hello:0.1.0'
+
