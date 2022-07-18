@@ -1,8 +1,6 @@
-name: github_com_jensh007_ocm-hello
+name: hello-source-archive
 access:
-  type: github
-  repoUrl: github.com/jensh007/ocm-example-hello
-  ref: refs/heads/main
-  commit: 166152df2856f6ec4d48fd68154987ed990894fa
-version: 0.1.0-dev
+  type: ociBlob
+  digest: sha256:48f1d4bb271689c642a9590c8605ac8c70f0a1cae35a7dba809530f9399d6a5c
+version: 0.0.1-dev
 type: git

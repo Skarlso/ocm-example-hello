@@ -27,7 +27,7 @@ type: 'ociImage'
 relation: 'external'
 access:
   type: 'ociRegistry'
-  imageReference: 'eu.gcr.io/gardener-project/test/ocm/examples/hello:0.1.0'
+  imageReference: 'docker.io/skarlso/ocm:example-0.0.1'
 
 ```
 
